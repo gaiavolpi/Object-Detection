@@ -1,0 +1,6 @@
+train: ../datasets/road_signs/train/images
+val: ../datasets/road_signs/valid/images
+test: ../datasets/road_signs/test/images
+
+nc: 4
+names: ['prohibitory', 'danger', 'mandatory', 'other']

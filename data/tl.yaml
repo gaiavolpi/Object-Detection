@@ -1,0 +1,6 @@
+train: ../datasets/traffic_lights/train/images
+val: ../datasets/traffic_lights/valid/images
+test: ../datasets/traffic_lights/test/images
+
+nc: 8
+names: ['RedLeft', 'Red', 'RedRight', 'GreenLeft', 'Green', 'GreenRight', 'Yellow', 'off']
